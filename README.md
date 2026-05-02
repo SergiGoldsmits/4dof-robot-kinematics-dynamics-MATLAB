@@ -98,6 +98,8 @@ Results from analytical models are compared directly against Simscape simulation
 ## Context
 
 This project was completed as part of the **Applied Robotics Technologies** course at the University of Pavia (MSc Industrial Automation Engineering). It demonstrates analytical derivation and implementation of robot kinematics and dynamics from first principles, validated through physical simulation.
+## Demo
+See `/results/` for simulation videos showing Task 1 and Task 2 trajectory execution in Simscape Multibody.
 
 **Author:** Sergi Goldsmits Ybarra  
 **Contact:** sergigoldsmits2000@gmail.com  
